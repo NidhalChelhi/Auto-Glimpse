@@ -11,7 +11,7 @@ Check out the live demo of Auto Glimpse [here](https://auto-glimpse.vercel.app).
 ![Hero Section](screenshots/Hero.png)
 *Screenshot of the Hero section in Auto Glimpse*
 
-![Car Catalogue](screenshots/Car%20Catalogue.png)
+![Car Catalogue](screenshots/CarsCatalogue.png)
 *Screenshot of the Car Catalogue section in Auto Glimpse*
 
 ![Footer](screenshots/Footer.png)
