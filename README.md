@@ -14,6 +14,9 @@ Check out the live demo of Auto Glimpse [here](https://auto-glimpse.vercel.app).
 ![Car Catalogue](screenshots/CarsCatalogue.png)
 *Screenshot of the Car Catalogue section in Auto Glimpse*
 
+![Car Catalogue](screenshots/CarDetails.png)
+*Screenshot of the Car Details mondal in Auto Glimpse*
+
 ![Footer](screenshots/Footer.png)
 *Screenshot of the Footer section in Auto Glimpse*
 
