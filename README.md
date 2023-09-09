@@ -31,10 +31,6 @@ Check out the live demo of Auto Glimpse [here](https://auto-glimpse.vercel.app).
 
 Contributions are welcome! Feel free to open issues or pull requests.
 
-## License
-
-This project is not licensed.
-
 ---
 
 Created by [Nidhal Chelhi](https://nidhalchelhi.vercel.app)
