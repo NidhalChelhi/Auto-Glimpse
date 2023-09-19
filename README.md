@@ -1,4 +1,4 @@
-![Logo](https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/logo/logo.png)
+<img src="https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/logo/logo.png" alt="Logo" height="100px">
 
 
 # Auto Glimpse
