@@ -1,4 +1,4 @@
-<img src="https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/logo/logo.png" alt="Logo" height="100px">
+<img src="https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/icons/icon-svg.svg" alt="Logo" height="100px">
 
 
 # Auto Glimpse
@@ -9,7 +9,7 @@
 Check out the live demo of Auto Glimpse [here](https://auto-glimpse.vercel.app).
 
 
-![Logo](https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/showcase/autoglimpse_showcase.png)
+![Showcase](https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/showcase/autoglimpse_showcase.png)
 
 
 ## Technologies Used
