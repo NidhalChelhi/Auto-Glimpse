@@ -8,13 +8,11 @@ module.exports = {
   mode: "jit",
   theme: {
     extend: {
-      fontFamily: {
-        inter: ["Inter", "sans-serif"],
-      },
+
       colors: {
         "black-100": "#2B2C35",
         "primary-blue": {
-          DEFAULT: "#2B59FF",
+          DEFAULT: "#2858ff",
           100: "#F5F8FF",
         },
         "secondary-orange": "#f79761",
@@ -25,8 +23,8 @@ module.exports = {
         grey: "#747A88",
       },
       backgroundImage: {
-        'pattern': "url('/pattern.png')",
-        'hero-bg': "url('/hero-bg.png')"
+        'pattern': "url('/assets/pattern.png')",
+        'hero-bg': "url('/assets/hero-bg.png')"
       }
     },
   },

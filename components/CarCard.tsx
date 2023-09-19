@@ -40,17 +40,17 @@ const CarCard = ({ car }: CarCardProps) => {
             <div className="relative flex w-full mt-2">
                 <div className="flex group-hover:invisible w-full justify-between text-gray">
                     <div className="flex flex-col justify-center items-center gap-2">
-                        <Image src='/steering-wheel.svg' width={20} height={20} alt="Steering Wheel" />
+                        <Image src='/assets/steering-wheel.svg' width={20} height={20} alt="Steering Wheel" />
                         <p className="text-[14px]">
                             {transmission === 'a' ? "Automatic" : "Manual"}
                         </p>
                     </div>   <div className="flex flex-col justify-center items-center gap-2">
-                        <Image src='/tire.svg' width={20} height={20} alt="Tire" />
+                        <Image src='/assets/tire.svg' width={20} height={20} alt="Tire" />
                         <p className="text-[14px]">
                             {drive.toUpperCase()}
                         </p>
                     </div>   <div className="flex flex-col justify-center items-center gap-2">
-                        <Image src='/gas.svg' width={20} height={20} alt="Gas" />
+                        <Image src='/assets/gas.svg' width={20} height={20} alt="Gas" />
                         <p className="text-[14px]">
                             {city_mpg} MPG
                         </p>
@@ -60,7 +60,7 @@ const CarCard = ({ car }: CarCardProps) => {
                     <CustomButton title="View More"
                         containerStyles="w-full py-[16px] rounded-full bg-primary-blue"
                         textStyles="text-white text-[14px] leading-[17px] font-bold"
-                        rightIcon='/right-arrow.svg'
+                        rightIcon='/assets/right-arrow.svg'
                         handleClick={() => setIsOpen(true)}
                     />
                 </div>
