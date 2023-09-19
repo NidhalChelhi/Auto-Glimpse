@@ -2,10 +2,10 @@
 
 
 # Auto Glimpse
-Auto Glimpse is a Next.js and Tailwind CSS project that showcases a curated car collection via API integration. It offers an immersive experience for enthusiasts and buyers with high-quality images and detailed information. The user-friendly, responsive design ensures smooth browsing, highlighting the synergy of frontend technology and API integration.
+**Auto Glimpse** is a Next.js and Tailwind CSS project that showcases a curated car collection via API integration. It offers an immersive experience for enthusiasts and buyers with high-quality images and detailed information. The user-friendly, responsive design ensures smooth browsing, highlighting the synergy of frontend technology and API integration.
 
 
-## Demo
+## Live Demo
 Check out the live demo of Auto Glimpse [here](https://auto-glimpse.vercel.app).
 
 
