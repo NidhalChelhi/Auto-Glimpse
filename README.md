@@ -9,6 +9,7 @@ Auto Glimpse is a Next.js and Tailwind CSS project that showcases a curated car 
 ## Demo
 
 Check out the live demo of Auto Glimpse [here](https://auto-glimpse.vercel.app).
+
 ![Logo](https://github.com/NidhalChelhi/Auto-Glimpse/blob/main/public/showcase/autoglimpse_showcase.png)
 
 
